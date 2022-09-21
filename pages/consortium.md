@@ -3,20 +3,26 @@ layout: page
 title: Consortium
 subtitle: People partaking in the project
 permalink: /consortium/
-feature-img: "assets/img/consortium-header.jpeg"
+feature-img: "assets/img/consortium.png"
 tags: [Consortium]
 ---
 
- * Università degli Studi di Modena e Reggio Emilia
-   - Franco Zambonelli (project coordinator)
-   - Stefano Mariani (unit coordinator, WP3 leader)
- * Alma Mater Studiorum–Università degli Studi di Bologna
-   - Mirko Viroli (unit coordinator)
-   - Danilo Pianini (WP1 leader)
-   - Roberto Casadei
- * Università di Camerino
-   - Barbara Re (unit coordinator)
-   - Fabrizio Fornari (WP4 leader)
  * Università della Calabria
-   - Giancarlo Fortino (unti coordinator)
-   - Claudio Savaglio (WP2 leader)
+   - Giancarlo Fortino (Principal Investigator)
+   - Antonella Guzzo
+  
+ * Università degli Studi di Bologna
+   - Mirko Viroli
+   - Roberto Casadei
+   
+ * Libera Università di Bolzano
+   - Antonio Liotta
+   
+ * Università "Campus Bio-Medico" di Roma
+   - Silvia Sterzi
+   - Massimiliano Carassiti
+   - Daniela Lo Prsti
+   
+ * Università degli Studi di Torino
+   - Ferruccio Damiani
+   - Gianluca Torta
