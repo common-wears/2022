@@ -3,7 +3,7 @@ layout: page
 title: Consortium
 subtitle: People partaking in the project
 permalink: /consortium/
-feature-img: "assets/img/consortium.png"
+feature-img: "assets/img/consortium.webp"
 tags: [Consortium]
 ---
 
