@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: /2022
 url: "fluidware-project.github.io"
 title: "FluidWare: A novel paradigm for Large-Scale IoT Systems"
 description: "Fluidware: A novel paradigm for Large-Scale IoT Systems"
