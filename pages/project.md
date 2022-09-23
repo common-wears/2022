@@ -13,4 +13,4 @@ approach. COMMON-WEARS addresses these concerns by proposing a new way to boost 
 associated engineering tools. These solutions aim at overcoming the lack of cooperation and multi-user orientation, collective system programming, trustworthiness, interoperability, and scalability of current WCS.
 Feasibility and effectiveness of our approach will be assessed via both real and simulated community-oriented use cases in three areas: primary health care, emergency response and pandemic management.
 
-![fig1]("assets/img/project/modelloA_2020HCWWLP_1.jpg" "Conventional WCS Architecture and data provided by WCS")
+![fig1](https://github.com/common-wears/2022/tree/main/assets/img/project/modelloA_2020HCWWLP_1.jpg "Conventional WCS Architecture and data provided by WCS")
