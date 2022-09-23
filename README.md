@@ -7,7 +7,7 @@
 
 ## Procedure
 
-1. Clone the repository with `git@github.com:Fluidware-Project/fluidware-project.github.io.git`
+1. Clone the repository with `git clone https://github.com/common-wears/2022.git)`
 2. Edit the files you need to change, add those you want to add
 3. Use `git add` to track the changes you want to commit
 4. Use `git commit -m "A DECENT COMMIT MESSAGE HERE"` to actually commit
