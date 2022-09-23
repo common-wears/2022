@@ -10,6 +10,8 @@ tags: [Consortium]
  * Università della Calabria
    - Giancarlo Fortino (Principal Investigator)
    - Antonella Guzzo
+   - Raffaele Gravina
+   - Qimeng Li
   
  * Università degli Studi di Bologna
    - Mirko Viroli
@@ -21,7 +23,7 @@ tags: [Consortium]
  * Università "Campus Bio-Medico" di Roma
    - Silvia Sterzi
    - Massimiliano Carassiti
-   - Daniela Lo Prsti
+   - Daniela Lo Presti
    
  * Università degli Studi di Torino
    - Ferruccio Damiani
