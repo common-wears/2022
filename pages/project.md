@@ -2,7 +2,7 @@
 layout: project
 title: The Project
 permalink: /project/
-feature-img: "assets/img/pexels/book-glass.jpeg"
+feature-img: "assets/img/pexels/desk-top.webp"
 tags: [Project]
 ---
 
