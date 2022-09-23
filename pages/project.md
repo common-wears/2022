@@ -12,3 +12,4 @@ One of the main concerns within the field of wearables is the large spread of th
 approach. COMMON-WEARS addresses these concerns by proposing a new way to boost CO-WCS in different scenarios by novel models at the device, network, middleware, service layers, supporting architecture, and
 associated engineering tools. These solutions aim at overcoming the lack of cooperation and multi-user orientation, collective system programming, trustworthiness, interoperability, and scalability of current WCS.
 Feasibility and effectiveness of our approach will be assessed via both real and simulated community-oriented use cases in three areas: primary health care, emergency response and pandemic management.
+
