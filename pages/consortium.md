@@ -14,8 +14,10 @@ tags: [Consortium]
    - Qimeng Li
   
  * Università degli Studi di Bologna
-   - Mirko Viroli
+   - Mirko Viroli (Unit lead)
    - Roberto Casadei
+   - Danilo Pianini
+   - Gianluca Aguzzi
    
  * Libera Università di Bolzano
    - Antonio Liotta
