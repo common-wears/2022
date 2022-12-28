@@ -29,5 +29,7 @@ tags: [Consortium]
    - Daniela Lo Presti
    
  * Università degli Studi di Torino
-   - Ferruccio Damiani
+   - Ferruccio Damiani (Unit lead)
+   - Giorgio Audrito
+   - Daniele Bortoluzzi
    - Gianluca Torta
