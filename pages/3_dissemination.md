@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Dissemination
-subtitle: Dissemination
-permalink: /Dissemination/
-feature-img: "assets/img/pexels/computer.webp"
+permalink: /dissemination/
+feature-img: "assets/img/pexels/analytics.webp"
 tags: [Dissemination]
 ---
