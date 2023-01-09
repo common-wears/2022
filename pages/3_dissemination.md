@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dissemination
-permalink: /dissemination/
+permalink: /Dissemination/
 feature-img: "assets/img/pexels/analytics.webp"
 tags: [Dissemination]
 ---
