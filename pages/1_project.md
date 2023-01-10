@@ -7,16 +7,13 @@ feature-img: "assets/img/pexels/computer.webp"
 tags: [Project]
 ---
 
-* GENERAL OBJECTIVE
+# GENERAL OBJECTIVE
 
-One of the main concerns within the field of wearables is the large spread of this technology for the effective support of communities: wearables are mainly designed and implemented using a single-user oriented
-approach. COMMON-WEARS addresses these concerns by proposing a new way to boost CO-WCS in different scenarios by novel models at the device, network, middleware, service layers, supporting architecture, and
-associated engineering tools. These solutions aim at overcoming the lack of cooperation and multi-user orientation, collective system programming, trustworthiness, interoperability, and scalability of current WCS.
-Feasibility and effectiveness of our approach will be assessed via both real and simulated community-oriented use cases in three areas: primary health care, emergency response and pandemic management.
+One of the main concerns within the field of wearables is the large spread of this technology for the effective support of communities: wearables are mainly designed and implemented using a single-user oriented approach. COMMON-WEARS addresses these concerns by proposing a new way to boost CO-WCS in different scenarios by novel models at the device, network, middleware, service layers, supporting architecture, and associated engineering tools. These solutions aim at overcoming the lack of cooperation and multi-user orientation, collective system programming, trustworthiness, interoperability, and scalability of current WCS. Feasibility and effectiveness of our approach will be assessed via both real and simulated community-oriented use cases in three areas: primary health care, emergency response and pandemic management.
 
 ![fig_1](../assets/img/project/modelloA_2020HCWWLP_1.jpg "Conventional WCS Architecture and data provided by WCS")
 
-Use Case 1. Operating Room Collective Intelligence
+## Use Case 1. Operating Room Collective Intelligence
 The community engaged in this use case is the surgical team working in the Operating Room (OR). The OR is a complex and technology-rich environment in which an effective communication and coordination of the
 surgical team is crucial for safe and efficient functioning. The team members (e.g., surgeons, nurses, and anaesthetists) should adapt their own inputs and efforts to those of their teammates to accomplish shared
 goals, carry out planned tasks and handle unexpected events. This group ability, known as Collective Intelligence (CI), may positively impact on patient safety and surgical outcomes given the task and environment
