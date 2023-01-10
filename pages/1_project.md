@@ -1,8 +1,9 @@
 ---
 layout: project
 title: The Project
+subtitle:   
 permalink: /project/
-feature-img: "assets/img/pexels/desk-top.webp"
+feature-img: "assets/img/pexels/computer.webp"
 tags: [Project]
 ---
 
