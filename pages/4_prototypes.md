@@ -8,4 +8,4 @@ feature-img: "assets/img/pexels/computer.webp"
 tags: [Prototypes, Software]
 ---
 
-Work in Progress
+The source code and documentation for our project are available for free download on our [GitHub project](https://github.com/common-wears/Software).
