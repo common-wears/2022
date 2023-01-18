@@ -7,21 +7,19 @@ feature-img: "assets/img/pexels/computer.webp"
 tags: [Project]
 ---
 
-# GENERAL OBJECTIVE
+# CONTEXT
+Gartner estimates the global smart wearable computing systems (WCS) market will be worth more than US$93 billion in 2022, with an increasing growth caused by the COVID-19. The industry and public sector are then pushing for innovative WCS solutions with high levels of dependability and trustworthiness that can efficiently operate in increasingly complex scenarios. Great strives have been made to realize WCS for the 24/7 monitoring of single users based on 3-tier architectures involving wearables, edge, and cloud systems. However, new requirements, specifically targeting cooperative multiple users, demands for radically new approaches, as promoted by the community-oriented WCS (CO-WCS) proposed here.  
 
-**COMMON-WEARS** is a new way to boost cooperation among wearables users in different scenarios. By using novel models at the device, network, middleware, service layers, supporting architecture and engineering tools, COMMON-WEARS overcomes the lack of cooperation and multi-user orientation in current wearables technology. The feasibility and effectiveness of this approach will be assessed via both real and simulated community-oriented use cases in three areas: primary health care, emergency response and pandemic management.  
+# OBJECTIVES
+  - Develop novel models and architectures for next-generation community-oriented wearable computing systems  
+  - Define a rigorous engineering methodology, with associated formal verification and simulation tools, to drive the development lifecycle of CO-WCS
+  - Create a pilot in a real instrumented environment to support activities of surgical teams in operating rooms
+  - Educate 5 young researchers in the area of CO-WCS
+  - Disseminate the results to scientific community, stakeholders and general public
+  - Pursue CO-WCS standardization via contribution to IEEE Global Wearables and Medical IoT Interoperability & Intelligence Program of IEEE SA to which the project PI participates  
 
-# BACKGROUND
+# RESEARCH
+COMMON-WEARS moves the research front by developing models, architectures, and engineering tools for the next generation of wearable computing systems, namely, those featuring multi-user collectives of smart wearables and body sensor networks (BSN), with applications, e.g., in domestic, urban, manufacturing, emergency, and working environments. This will be achieved by combining recent research conducted by the proposers in aggregate computing, collective opportunistic IoT, machine learning, and WCS/BSN architectures. We will demonstrate results on challenging use cases in the areas of healthcare, emergency response and pandemic management that are strongly impacted by smart wearables.
 
-# USE CASES
-
-## Use Case 1. Operating Room Collective Intelligence  
-The community engaged in this use case is the surgical team working in the Operating Room (OR). The OR is a complex and technology-rich environment in which an effective communication and coordination of the surgical team is crucial for safe and efficient functioning. The team members (e.g., surgeons, nurses, and anaesthetists) should adapt their own inputs and efforts to those of their teammates to accomplish shared goals, carry out planned tasks and handle unexpected events. This group ability, known as Collective Intelligence (CI), may positively impact on patient safety and surgical outcomes given the task and environment complexity. Although OR team performance is recognized as a factor to pursue good surgical care and good surgical outcomes, surprisingly, practical issues of developing quantitative and objective measurements in the OR need to be still solved. Thus, new methods for objective measurements to evaluate the team performance should be defined to support the CI. COMMON-WEARS aims at mapping and fostering the CI through a community-driven approach able to improve OR team performance through the connection among surgical team members. It proposes a strategy grounded on three main Key Enabling Features (KEF) to overcome the existing limitations (Fig.2.1).  
-
-![fig_2](../assets/img/project/modelloA_2020HCWWLP_2.jpg "Conventional WCS Architecture and data provided by WCS")  
-
-## Use Case 2.
-
-
-# REFERENCE ARCHITECTURE
-![fig_1](../assets/img/project/modelloA_2020HCWWLP_1.jpg "Conventional WCS Architecture and data provided by WCS")
+# OUTCOMES AND IMPACT
+The combination of new scientific results beyond the state of the art and real-life and simulation-based demonstrators will increase impact of results both in research and industry. The project outcomes have the potential of opening up a new era of WCS as an enabler for smart services based on CO-WCS. COMMON-WEARS has several potential impacts for value creation: Its research will make major theoretical, methodological and experimental contributions towards a better understanding of how to support communities with smart wearables; The overall project contribution is in line with the Horizon Europe clusters and towards supporting UN Sustainable Development Goals; The dissemination activities target the scientific community and key industry and public sector stakeholders, as well as the general public, to maximize impact of results.
