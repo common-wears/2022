@@ -14,7 +14,7 @@ tags: [Consortium]
    - Qimeng Li
   
  * Università degli Studi di Bologna
-   - Mirko Viroli (Unit lead)
+   - Mirko Viroli (Unit Responsible)
    - Roberto Casadei
    - Danilo Pianini
    - Gianluca Aguzzi
@@ -29,7 +29,7 @@ tags: [Consortium]
    - Daniela Lo Presti
    
  * Università degli Studi di Torino
-   - Ferruccio Damiani (Unit lead)
+   - Ferruccio Damiani (Unit Responsible)
    - Giorgio Audrito
    - Daniele Bortoluzzi
    - Gianluca Torta
