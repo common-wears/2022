@@ -1,12 +1,14 @@
 ---
 layout: project
 title: Approach
-subtitle: # [*THE PROJECT](https://common-wears.github.io/2022/project/) &nbsp; [*STATE-OF-THE-ART](https://common-wears.github.io/2022/project/state-of-the-art/) &nbsp; [*APPROACH](https://common-wears.github.io/2022/project/approach/) &nbsp; [*USECASE](https://common-wears.github.io/2022/project/usecase/) 
+subtitle:
 permalink: /project/approach/
 feature-img: "assets/img/pexels/computer.webp"
 hide: Approach
 tags: [Approach]
 ---
+ # [*THE PROJECT](https://common-wears.github.io/2022/project/) &nbsp; [*STATE-OF-THE-ART](https://common-wears.github.io/2022/project/state-of-the-art/) &nbsp; [*APPROACH](https://common-wears.github.io/2022/project/approach/) &nbsp; [*USECASE](https://common-wears.github.io/2022/project/usecase/) 
+ 
 ## COMMON-WEARS Approach  
   - Wearable BSN (WBSN): a set of wearable sensors coordinated by a (mobile) base station device, worn by some individual;  
   - Inter-wearable mobile ad-hoc network: a network of wearables (worn by multiple individuals), in which wearables can directly interact with each other as in a mobile ad-hoc network;  
