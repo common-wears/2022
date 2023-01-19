@@ -7,8 +7,7 @@ feature-img: "assets/img/pexels/computer.webp"
 weight: 1
 tags: [Project]
 ---
-# [*THE PROJECT](https://common-wears.github.io/2022/project/) &nbsp; [*STATE-OF-THE-ART](https://common-wears.github.io/2022/project/state-of-the-art/) &nbsp; [*APPROACH](https://common-wears.github.io/2022/project/approach/) &nbsp; [*USECASE](https://common-wears.github.io/2022/project/usecase/) 
-
+# [*THE PROJECT](https://common-wears.github.io/2022/project/) &emsp; [*STATE-OF-THE-ART](https://common-wears.github.io/2022/project/state-of-the-art/) &emsp; [*APPROACH](https://common-wears.github.io/2022/project/approach/) &emsp; [*USECASE](https://common-wears.github.io/2022/project/usecase/)  
 
 ## CONTEXT
 Gartner estimates the global smart wearable computing systems (WCS) market will be worth more than US$93 billion in 2022, with an increasing growth caused by the COVID-19. The industry and public sector are then pushing for innovative WCS solutions with high levels of dependability and trustworthiness that can efficiently operate in increasingly complex scenarios. Great strives have been made to realize WCS for the 24/7 monitoring of single users based on 3-tier architectures involving wearables, edge, and cloud systems. However, new requirements, specifically targeting cooperative multiple users, demands for radically new approaches, as promoted by the community-oriented WCS (CO-WCS) proposed here.  
