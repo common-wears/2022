@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Approach
-subtitle:   
+subtitle: # [*THE PROJECT](https://common-wears.github.io/2022/project/) &nbsp; [*STATE-OF-THE-ART](https://common-wears.github.io/2022/project/state-of-the-art/) &nbsp; [*APPROACH](https://common-wears.github.io/2022/project/approach/) &nbsp; [*USECASE](https://common-wears.github.io/2022/project/usecase/) 
 permalink: /project/approach/
 feature-img: "assets/img/pexels/computer.webp"
 hide: Approach
