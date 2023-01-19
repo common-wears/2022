@@ -6,6 +6,17 @@ permalink: /project/
 feature-img: "assets/img/pexels/computer.webp"
 tags: [Project]
 ---
+<hr />
+=== "tab_1"
+
+    Content of tab_1  
+    ![](../../images/home/relux_deer.gif)
+
+=== "tab_2"
+
+    Content of tab_2  
+    ![](../../images/home/tear_deer.gif)
+    
 # CONTEXT
 Gartner estimates the global smart wearable computing systems (WCS) market will be worth more than US$93 billion in 2022, with an increasing growth caused by the COVID-19. The industry and public sector are then pushing for innovative WCS solutions with high levels of dependability and trustworthiness that can efficiently operate in increasingly complex scenarios. Great strives have been made to realize WCS for the 24/7 monitoring of single users based on 3-tier architectures involving wearables, edge, and cloud systems. However, new requirements, specifically targeting cooperative multiple users, demands for radically new approaches, as promoted by the community-oriented WCS (CO-WCS) proposed here.  
 
