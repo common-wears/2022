@@ -6,7 +6,7 @@ permalink: /project/
 feature-img: "assets/img/pexels/computer.webp"
 tags: [Project]
 ---
-<hr />
+
 === "tab_1"
 
     Content of tab_1  
