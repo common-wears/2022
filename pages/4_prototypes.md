@@ -5,6 +5,7 @@ subtitle:
 permalink: /software/
 subtitle: "Software and prototypes" 
 feature-img: "assets/img/pexels/computer.webp"
+weight: 4
 tags: [Prototypes, Software]
 ---
 
