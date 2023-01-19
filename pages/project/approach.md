@@ -4,7 +4,7 @@ title: Approach
 subtitle:   
 permalink: /project/approach/
 feature-img: "assets/img/pexels/computer.webp"
-published: false
+hide: Approach
 tags: [Approach]
 ---
 ## COMMON-WEARS Approach  
