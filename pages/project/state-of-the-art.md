@@ -4,6 +4,7 @@ title: State-of-the-art
 subtitle:   
 permalink: /project/state-of-the-art/
 feature-img: "assets/img/pexels/computer.webp"
+published: false
 tags: [state-of-the-art]
 ---
 Due to the new wave of wearable gadgetry hitting the ICT market, Wearable Computing Systems (WCS) are emerging as a new computing platform with full capabilities to support diversified application domains. Wearables, which include both devices and body sensors, are networked cyberphysical objects that may offer enough power to support local computation and sensor-based information as well as some actuation. State-of-the-art WCS are devised using mainly single-user-oriented and application-specific approaches, confining their exploitation in single-user monitoring platforms developed around a traditional three-tier device-edge-cloud architecture. Next-generation WCS will be community-oriented (hereafter CO-WCS), that is, based on collectives of wearables and for groups of users. CO-WCS can efficiently and effectively support communities for advanced activity/situation recognition and awareness, via distributed autonomic control and self-adaptive feedback loops. They are characterized by self-organization, self-adaptation and deployment independence. Existing approaches addressing systems with these features can be categorised as follows:  
