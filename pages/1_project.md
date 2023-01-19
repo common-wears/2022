@@ -7,17 +7,23 @@ feature-img: "assets/img/pexels/computer.webp"
 tags: [Project]
 ---
 
-# Markdown {.tabset}
-## Plots
-\```{r, fig.dim=c(5, 3)}
-par(mar = c(4, 4, .5, .1))
-plot(mpg ~ hp, data = mtcars, pch = 19)
-\```
+::: tabs
 
-## Tables
-\```{r}
-head(mtcars)
-\```
+@tab The Project
+
+Apple
+
+@tab State-of-the-art
+
+Banana
+
+@tab Approach
+
+Orange
+
+@tab Usecase
+
+:::
 
 
 
