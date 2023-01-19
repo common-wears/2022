@@ -20,12 +20,9 @@ Brescia, Italy
 Date： 14 - 16 June 2023  
 Jeju, South Korea  
 
-[2nd DISCOLI Workshop on DIStributed COLlective Intelligence (DISCOLI 2023)](https://discoli-workshop.github.io/2023/)
-Date： 19 - 21 June 2023
-Coral Bay, Pafos, Cyprus
-
-
-
+[2nd DISCOLI Workshop on DIStributed COLlective Intelligence (DISCOLI 2023)](https://discoli-workshop.github.io/2023/)  
+Date： 19 - 21 June 2023  
+Coral Bay, Pafos, Cyprus  
 
 # Special Sessions
   
