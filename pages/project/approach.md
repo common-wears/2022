@@ -7,7 +7,7 @@ feature-img: "assets/img/pexels/computer.webp"
 hide: Approach
 tags: [Approach]
 ---
- # [*THE PROJECT](https://common-wears.github.io/2022/project/) &nbsp; [*STATE-OF-THE-ART](https://common-wears.github.io/2022/project/state-of-the-art/) &nbsp; [*APPROACH](https://common-wears.github.io/2022/project/approach/) &nbsp; [*USECASE](https://common-wears.github.io/2022/project/usecase/) 
+# [*THE PROJECT](https://common-wears.github.io/2022/project/) &emsp; [*STATE-OF-THE-ART](https://common-wears.github.io/2022/project/state-of-the-art/) &emsp; [*APPROACH](https://common-wears.github.io/2022/project/approach/) &emsp; [*USECASE](https://common-wears.github.io/2022/project/usecase/)  
  
 ## COMMON-WEARS Approach  
   - Wearable BSN (WBSN): a set of wearable sensors coordinated by a (mobile) base station device, worn by some individual;  
