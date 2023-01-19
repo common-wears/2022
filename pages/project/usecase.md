@@ -4,7 +4,7 @@ title: Usecase
 subtitle:   
 permalink: /project/usecase/
 feature-img: "assets/img/pexels/computer.webp"
-published: false
+hide: Usecase
 tags: [Usecase]
 ---
 
