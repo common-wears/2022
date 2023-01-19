@@ -4,6 +4,7 @@ title: Consortium
 subtitle: People partaking in the project
 permalink: /consortium/
 feature-img: "assets/img/pexels/computer.webp"
+weight: 2
 tags: [Consortium]
 ---
 
