@@ -110,7 +110,7 @@ collections:
     permalink: /:collection/:name
 
 # BUILD SETTINGS
-markdown: GFM
+markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
