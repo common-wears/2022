@@ -8,6 +8,37 @@ layout: default
     {{ page.date | date: "%B %-d, %Y" }}
     {% if page.author %} - {{ page.author }}{% endif %}
     </p>
+    <meta charset="UTF-8">
+    <title>选项卡练习</title>
+    <style type="text/css">
+        body,ul,li{margin: 0;padding: 0;font:12px/1.5 arial;/* 字体12像素 行高 1.5em 字体 Arial */ }
+        ul,li{list-style:none;}
+        .wrap{width:500px; margin:20px auto;}
+        .hide{display:none;}
+        #hlist{height:40px; width:500px; border:1px solid #ccc;border-bottom: none}
+        #hlist li{float:left; width:125px; line-height:40px; text-align:center; background:#d7d7d7; cursor:pointer}
+
+        #hlist .selected{border-bottom:none; background:#fff;}
+        #cdivs{width:500px; border:1px solid #ccc; border-top:none; text-align:center; line-height:200px;}
+    </style>
+
+    <script type="text/javascript">
+        window.onload=function(){
+            var hlist = document.getElementById('hlist').getElementsByTagName('li');
+            var cdivs =document.getElementById('cdivs').getElementsByTagName('div');
+            for(var i=0;i<hlist.length;i++){
+                hlist[i].index=i;
+                hlist[i].onclick=function(){
+                    for(var i=0;i<hlist.length;i++){
+                        hlist[i].className='';
+                        cdivs[i].className='hide';
+                    }
+                this.className='selected';
+                cdivs[this.index].className='';
+                }
+            }
+        }
+</script>
   </header>
   <section class="post-content">{{ content }}</section>
 
