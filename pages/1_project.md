@@ -7,7 +7,7 @@ feature-img: "assets/img/pexels/computer.webp"
 weight: 1
 tags: [Project]
 ---
-# [The Project](https://common-wears.github.io/2022/project/) # [Usecase](https://common-wears.github.io/2022/project/)
+# [The Project](https://common-wears.github.io/2022/project/)  [State-of-the-art/](https://common-wears.github.io/2022/project/state-of-the-art/) [Approach](https://common-wears.github.io/2022/project/approach/) [Usecase](https://common-wears.github.io/2022/project/usecase/) 
 
 
 # CONTEXT
