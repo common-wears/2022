@@ -7,15 +7,15 @@ feature-img: "assets/img/pexels/computer.webp"
 hide: Approach
 tags: [Approach]
 ---
-# [*THE PROJECT](https://common-wears.github.io/2022/project/) &emsp; [*STATE-OF-THE-ART](https://common-wears.github.io/2022/project/state-of-the-art/) &emsp; [*APPROACH](https://common-wears.github.io/2022/project/approach/) &emsp; [*USECASE](https://common-wears.github.io/2022/project/usecase/)  
+## [THE PROJECT](https://common-wears.github.io/2022/project/) &emsp; [STATE-OF-THE-ART](https://common-wears.github.io/2022/project/state-of-the-art/) &emsp; [APPROACH](https://common-wears.github.io/2022/project/approach/) &emsp; [USECASE](https://common-wears.github.io/2022/project/usecase/)  
  
-## COMMON-WEARS Approach  
+### COMMON-WEARS Approach  
   - Wearable BSN (WBSN): a set of wearable sensors coordinated by a (mobile) base station device, worn by some individual;  
   - Inter-wearable mobile ad-hoc network: a network of wearables (worn by multiple individuals), in which wearables can directly interact with each other as in a mobile ad-hoc network;  
   - Inter-WBSN mobile ad-hoc networks: a mobile ad-hoc network of the WBSN base stations, mainly represented by (mobile) edge devices;  
   - Inter-WCS cloud network: a cloud system supporting the whole WCS.  
 
-## SPECIFIC OBJECTIVES  
+### SPECIFIC OBJECTIVES  
 According to the above description, the specific objectives (SOs) that will be pursued by the project, include:  
 
   - SO1: develop the COMMON-WEARS models and associated programming abstractions, suitable for defining and composing smart services and applications for CO-WCS, and scalable to large numbers of cooperative wearables/BSNs distributed over large-area environments;
