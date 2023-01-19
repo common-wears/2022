@@ -4,6 +4,7 @@ title: Dissemination
 subtitle:  
 permalink: /Dissemination/
 feature-img: "assets/img/pexels/computer.webp"
+weight: 3
 tags: [Dissemination]
 ---
 
