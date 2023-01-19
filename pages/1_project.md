@@ -4,6 +4,7 @@ title: The Project
 subtitle:   
 permalink: /project/
 feature-img: "assets/img/pexels/computer.webp"
+weight: 1
 tags: [Project]
 ---
 
