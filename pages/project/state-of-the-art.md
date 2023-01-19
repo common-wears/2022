@@ -14,4 +14,4 @@ Due to the new wave of wearable gadgetry hitting the ICT market, Wearable Comput
 
 Engineering trustworthy computational services over CO-WCS is challenging. Therefore, devising a rigorous methodology, supported by verification and simulation tools, is fundamental. A few methodologies in the area of IoT and WCS were introduced. Particularly, ACOSO-Meth and Prometheus could be customized to match some requirements of CO-WCS. Although SPINE-DM is the only available methodology for BSN systems, it is focuse t is focused on single-user WCS and not on CO-WCS. To overcome single-user-orientation, BodyCloud was introduced; however, it relies on cloud-based data collection, processing, analysis and decision-making.  
 
-![img1](../assets/img/project/modelloA_2020HCWWLP_1.jpg)
+![img1](../../assets/img/project/modelloA_2020HCWWLP_1.jpg)
