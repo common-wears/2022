@@ -7,7 +7,7 @@ feature-img: "assets/img/pexels/computer.webp"
 hide: Approach
 tags: [Approach]
 ---
-## [THE PROJECT](https://common-wears.github.io/2022/project/) &emsp; [STATE-OF-THE-ART](https://common-wears.github.io/2022/project/state-of-the-art/) &emsp; [APPROACH](https://common-wears.github.io/2022/project/approach/) &emsp; [USE CASE](https://common-wears.github.io/2022/project/usecase/)  
+## [THE PROJECT](https://common-wears.github.io/2022/project/) &emsp; [STATE-OF-THE-ART](https://common-wears.github.io/2022/project/state-of-the-art/) &emsp; [APPROACH](https://common-wears.github.io/2022/project/approach/) &emsp; [USE CASES](https://common-wears.github.io/2022/project/usecase/)  
  
 ### 
 One of the main concerns within the field of wearables is the large spread of this technology for the effective support of communities: wearables are mainly designed and implemented using a single-user oriented approach. COMMON-WEARS addresses these concerns by proposing a new way to boost CO-WCS in different scenarios by novel models at the device, network, middleware, service layers, supporting architecture, and associated engineering tools. These solutions aim at overcoming the lack of cooperation and multi-user orientation, collective system programming, trustworthiness, interoperability, and scalability of current WCS. Feasibility and effectiveness of our approach will be assessed via both real and simulated community-oriented use cases in three areas: primary health care, emergency response and pandemic management.  
