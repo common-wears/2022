@@ -1,13 +1,13 @@
 ---
 layout: project
-title: Use Case
+title: Use Cases
 subtitle:   
 permalink: /project/usecase/
 feature-img: "assets/img/pexels/computer.webp"
 hide: Usecase
 tags: [Usecase]
 ---
-## [THE PROJECT](https://common-wears.github.io/2022/project/) &emsp; [STATE-OF-THE-ART](https://common-wears.github.io/2022/project/state-of-the-art/) &emsp; [APPROACH](https://common-wears.github.io/2022/project/approach/) &emsp; [USE CASE](https://common-wears.github.io/2022/project/usecase/)  
+## [THE PROJECT](https://common-wears.github.io/2022/project/) &emsp; [STATE-OF-THE-ART](https://common-wears.github.io/2022/project/state-of-the-art/) &emsp; [APPROACH](https://common-wears.github.io/2022/project/approach/) &emsp; [USE CASES](https://common-wears.github.io/2022/project/usecase/)  
 
 ### Use Case 1. Operating Room Collective Intelligence  
 The community engaged in this use case is the surgical team working in the Operating Room (OR). The OR is a complex and technology-rich environment in which the team members need to adapt their inputs to those of their teammates in order to achieve shared goals. This is known as Collective Intelligence (CI). This group ability may positively impact on patient safety and surgical outcomes. Although OR team performance is recognized as a factor to pursue good surgical care and good surgical outcomes, surprisingly, practical issues of developing quantitative and objective measurements in the OR need to be still solved. Thus, new methods for objective measurements to evaluate the team performance should be defined to support the CI. COMMON-WEARS aims to map and foster the CI through a community-driven approach that is able to improve OR team performance. 
