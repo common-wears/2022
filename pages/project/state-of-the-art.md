@@ -11,7 +11,7 @@ tags: [state-of-the-art]
  
 Due to the new wave of wearable gadgetry hitting the ICT market, Wearable Computing Systems (WCS) [1,2] are emerging as a new computing platform with full capabilities to support diversified application domains. Wearables, which include both devices and body sensors, are networked cyberphysical objects that may offer enough power to support local computation and sensor-based information as well as some actuation [3,4,5].  
 
-State-of-the-art WCS are devised using mainly single-user-oriented and application-specific approaches, confining their exploitation in single-user monitoring platforms developed around a traditional three-tier device-edge-cloud architecture (see Fig. 1.1).  
+State-of-the-art WCS are devised using mainly single-user-oriented and application-specific approaches, confining their exploitation in single-user monitoring platforms developed around a traditional three-tier device-edge-cloud architecture (see Figure below).  
 
 Next-generation WCS will be community-oriented (hereafter CO-WCS), that is, based on collectives of wearables and for groups of users. CO-WCS can efficiently and effectively support communities for advanced activity/situation recognition and awareness, via distributed autonomic control and self-adaptive feedback loops. They are characterized by self-organization, self-adaptation and deployment independence. Existing approaches addressing systems with these features can be categorised as follows:  
   - Self-organisation: traditional mechanisms, paradigms, patterns and applications of self-organisation are heavily inspired by nature [6], whereas recent approaches aim at devising computational models enriching expressiveness and addressing by-design robustness [7]. For instance, Codeblue introduced a wearable Body Sensor Networks (BSNs)-based framework for self-organization of collective wearables in health-care oriented emergency response scenarios [8]; however, it was created using a scarcely-reusable application-specific approach.
@@ -56,10 +56,3 @@ Finally, in order to effectively support CO-WCS from the device viewpoint, weara
 [24] Q Li, R Gravina, Y Li, SH Alsamhi, F Sun, G Fortino: Multi-user activity recognition: Challenges and opportunities. Inf. Fusion 63:121-135 (2020)  
 [25] G Fortino, S Galzarano, R Gravina, W Li: A framework for collaborative computing and multi-sensor data fusion in body sensor networks. Inf. Fusion 22:50-70 (2015)  
 [26] MC Silva et al Field Research Cooperative Wearable Systems: Challenges in Requirements, Design and Validation. Sensors. 19(20):4417 (2019)  
-[27] C Vincent et al. Systems approaches to surgical quality and safety: from concept to measurement. Annals of surgery, 2004, 239.4:475  
-[28] S. Weaver et al.: Does teamwork improve performance in the operating room? A multilevel evaluation. The Joint Commission journal on quality and patient safety, 2010, 36.3:133-142  
-[29] A Healey et al. Developing observational measures of performance in surgical teams. BMJ Quality & Safety, 2004, 13.suppl 1:i33-i40  
-[30] M Leslie, “COVID-19 Fight Enlists Digital Technology: Contact Tracing Apps,” Engineering, 6(10):1064-1066, 2020  
-[31] R Casadei, G Fortino, D Pianini, W Russo, C Savaglio, M Viroli: Modelling and simulation of Opportunistic IoT Services with Aggregate Computing. Future Gener. Comput. Syst. 91: 252-262 (2019)  
-[32] R Casadei, G Fortino, D Pianini, W Russo, C Savaglio, M Viroli: A development approach for collective opportunistic Edge-of-Things services. Inf. Sci. 498: 154-169(2019)  
-[33] J Beal, M Viroli, D Pianini, F Damiani: Self-Adaptation to Device Distribution in the Internet of Things. ACM Trans. Auton. Adapt. Syst. 12(3): 12:1-12:29(2017)  
