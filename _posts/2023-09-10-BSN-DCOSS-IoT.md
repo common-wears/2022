@@ -5,7 +5,7 @@ title: "A BSN-Enabled Collaborative Edge-Cloud Architecture for Multi-User Activ
 # List authors here as they appear in the paper
 authors: Qimeng Li, Raffaele Gravina, Claudio Savaglio, Giancarlo Fortino
 # List keywords to get more visibility
-tags: [IoT]
+tags: [multi-user activity recognition, architecture, edge computing, collaborative body sensor networks]
 # Add the journal / proceedings
 journal: Proceedings of the 2023 19th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)
 # Add the DOI
