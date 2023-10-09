@@ -7,7 +7,7 @@ authors: Giorgio Audrito, Roberto Casadei, Ferruccio Damiani, Gianluca Torta, Mi
 # List keywords to get more visibility
 tags: [collective computing, collective processes, ensembles, formation control]
 # Add the journal / proceedings
-journal:  Proceedings International Conference on Coordination Languages and Models
+journal:  Proceedings of the 2023 International Conference on Coordination Languages and Models
 # Add the DOI
 doi: 10.1007/978-3-031-35361-1_4
 # Everithing written before <!--more--> will appear directly in the publications page
