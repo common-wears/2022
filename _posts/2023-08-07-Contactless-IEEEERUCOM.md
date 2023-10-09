@@ -5,7 +5,7 @@ title: "A Contactless Sensing Method for Social Activity Recognition"
 # List authors here as they appear in the paper
 authors: Qimeng Li, Raffaele Gravina, Weilin Zang, Ye Li, Hongyu Wang, Giancarlo Fortino
 # List keywords to get more visibility
-tags: [IoT]
+tags: [social activity recognition, contact-less sensing, Wi-Fi, artificial neural network]
 # Add the journal / proceedings
 journal: Proceedings of the IEEE EUROCON 2023 - 20th International Conference on Smart Technologies
 # Add the DOI
