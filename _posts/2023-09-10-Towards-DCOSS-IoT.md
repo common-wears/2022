@@ -5,7 +5,7 @@ title: "Towards Collective Sentiment Analysis in IoT-Enabled Scenarios"
 # List authors here as they appear in the paper
 authors: Claudio Savaglio, Roberto Casadei, Pietro Manzoni, Mirko Viroli, Giancarlo Fortino
 # List keywords to get more visibility
-tags: [IoT]
+tags: [Internet of Things, Edge Intelligence, TinyML, Sentiment Analysis, Collective Intelligence]
 # Add the journal / proceedings
 journal: Proceedings of the 2023 19th International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)
 # Add the DOI
