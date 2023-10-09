@@ -5,7 +5,7 @@ title: "A UWB Radar-based Adaptive Method for In-home Monitoring of Elderly"
 # List authors here as they appear in the paper
 authors: Qimeng Li, Jikui Liu, Raffaele Gravina, Weilin Zang, Ye Li, Giancarlo Fortino
 # List keywords to get more visibility
-tags: [IoT]
+tags: [Elderly Monitor, UWB Radar, Fall Recognition, Vital Sign Detection]
 # Add the journal / proceedings
 journal: IEEE Internet of Things Journal
 # Add the DOI
