@@ -7,7 +7,7 @@ authors: Daniela Lo Presti, Raffaele Gravina, Carlo Massaroni, Domenico Formica,
 # List keywords to get more visibility
 tags: [Collective intelligence, wearable systems, physiological monitoring, operating room]
 # Add the journal / proceedings
-journal: 2021 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)
+journal: 2021 IEEE/ACM Conference on Connected Health - Applications, Systems and Engineering Technologies (CHASE)
 # Add the DOI. If you do so, it will get automatically linked
 doi: 10.1109/CHASE52844.2021.00039
 # Everithing written before <!--more--> will appear directly in the publications page
