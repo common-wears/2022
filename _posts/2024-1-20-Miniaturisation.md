@@ -7,7 +7,7 @@ authors: L. Cavallaro, T. Serafin, A. Liotta
 # List keywords to get more visibility
 tags: [Binary]
 # Add the journal / proceedings
-journal: Proceedings of Numerical computations: Theory and Algorithms (NUMTA 2023, Vibo Valentia, Italy)
+journal: Proceedings of Numerical computations: Theory and Algorithms
 # Add the DOI. If you do so, it will get automatically linked
 # doi: 10.1109/CogSIMA54611.2022.9830672
 # Everithing written before <!--more--> will appear directly in the publications page
