@@ -1,4 +1,4 @@
----
+https://github.com/common-wears/2022/tree/main/_posts---
 layout: post
 # Your title goes here
 title: "Multi-class classification performance improvements through high sparsity strategies"
@@ -13,7 +13,4 @@ journal: Complex Networks and Their Applications XII
 # Everithing written before <!--more--> will appear directly in the publications page
 excerpt_separator: <!--more-->
 ---
-
-presented as part of poster session, in press
-
-[Full paper](https://doi.org/10.3390/app12010349)
+presented as part of a poster session, in press
