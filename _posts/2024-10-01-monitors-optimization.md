@@ -1,7 +1,7 @@
 ---
 layout: post
 # Your title goes here
-title: "Dynamic IoT deployment reconfiguration: A global-level self-organisation approach"
+title: "Optimising Aggregate Monitors for Spatial Logic of Closure Spaces Properties"
 # List authors here as they appear in the paper
 authors: Aguzzi, G., Audrito, G., Viroli, M.
 # List keywords to get more visibility
