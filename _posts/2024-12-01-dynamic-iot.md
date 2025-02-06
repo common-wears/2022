@@ -9,7 +9,7 @@ tags: [Distributed systems, Edge–cloud continuum, Dynamic reconfiguration, Col
 # Add the journal / proceedings
 journal: Internet of Things
 # Add the DOI. If you do so, it will get automatically linked
-doi: https://doi.org/10.1016/j.iot.2024.101412
+doi: 10.1016/j.iot.2024.101412
 
 # Everything written before <!--more--> will appear directly in the publications page
 excerpt_separator: <!--more-->

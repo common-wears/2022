@@ -9,7 +9,7 @@ tags: [Runtime reconfiguration, Distributed systems, Self-adaptation, Self-organ
 # Add the journal / proceedings
 journal: Future Generation Computer Systems
 # Add the DOI. If you do so, it will get automatically linked
-doi: doi.org/10.1016/j.future.2024.07.042
+doi: 10.1016/j.future.2024.07.042
 
 # Everything written before <!--more--> will appear directly in the publications page
 excerpt_separator: <!--more-->
