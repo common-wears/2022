@@ -1,4 +1,3 @@
-
 ---
 layout: post
 # Your title goes here
