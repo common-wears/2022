@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Evaluation of High Sparsity Strategies for Efficient Binary Classification"
+authors: Laura Erhan, Lucia Cavallaro, Marco A. Antinori, Antonio Liotta
+tags: [Sparse neural networks, High sparsity, Binary classification, Model efficiency, Edge computing, Medical data]
+journal: Big Data Analytics and Knowledge Discovery: DaWaK 2024, Lecture Notes in Computer Science, Springer Nature Switzerland, pp. 106–111
+doi: 10.1007/978-3-031-68323-7_8
+excerpt_separator: <!--more-->
+---
+
+Neural networks with high sparsity levels are increasingly studied as a means of reducing computational and memory requirements while retaining predictive accuracy. This chapter investigates **high sparsity training strategies** in binary classification tasks, focusing on their trade-offs between efficiency and performance. The authors analyze sparsity thresholds and their impact on accuracy, demonstrating that carefully chosen sparsification techniques can preserve classification quality while significantly improving model compactness and execution efficiency. The findings are relevant for deploying AI in resource-constrained environments, such as embedded systems and edge computing.<!--more-->
+
+[Full chapter](https://doi.org/10.1007/978-3-031-68323-7_8)
