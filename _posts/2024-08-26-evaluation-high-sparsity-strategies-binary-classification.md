@@ -3,7 +3,7 @@ layout: post
 title: "Evaluation of High Sparsity Strategies for Efficient Binary Classification"
 authors: Laura Erhan, Lucia Cavallaro, Marco A. Antinori, Antonio Liotta
 tags: [Sparse neural networks, High sparsity, Binary classification, Model efficiency, Edge computing, Medical data]
-journal: Big Data Analytics and Knowledge Discovery: DaWaK 2024, Lecture Notes in Computer Science, Springer Nature Switzerland, pp. 106–111
+journal: Big Data Analytics and Knowledge Discovery, DaWaK 2024, Lecture Notes in Computer Science, Springer Nature Switzerland, pp. 106–111
 doi: 10.1007/978-3-031-68323-7_8
 excerpt_separator: <!--more-->
 ---
