@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Exploring Evaluation Metrics for Binary Classification in Data Analysis: the Worthiness Benchmark Concept"
+authors: Mohammad Shirdel, Mario Di Mauro, Antonio Liotta
+tags: [Binary classification, Evaluation metrics, Worthiness Benchmark, γ-analysis, Confusion matrix]
+journal: Big Data Analytics and Knowledge Discovery: DaWaK 2024 (LNCS), Springer
+doi: 10.1007/978-3-031-68323-7_10
+excerpt_separator: <!--more-->
+---
+
+Selecting the most appropriate evaluation metric for binary classification models remains a foundational challenge. Traditional metrics—such as Accuracy, F1-score, or MCC—can provide conflicting rankings when models' confusion matrices change. This chapter introduces the **Worthiness Benchmark (γ)**, a novel concept that defines the minimal change required in a confusion matrix for one classifier to be considered superior to another:contentReference[oaicite:1]{index=1}. The authors propose a structured **γ-analysis**, examining how various evaluation metrics respond to such perturbations and highlighting their implicit ranking principles. This framework offers practitioners clearer guidance when choosing metrics tailored to problem-specific contexts.:contentReference[oaicite:2]{index=2}
+
+[Full chapter](https://doi.org/10.1007/978-3-031-68323-7_10)
