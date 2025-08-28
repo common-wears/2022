@@ -3,7 +3,7 @@ layout: post
 title: "Miniaturisation of Binary Classifiers Through Sparse Neural Networks"
 authors: Lucia Cavallaro, Tommaso Serafin, Antonio Liotta
 tags: [Sparse neural networks, Binary classification, Model miniaturisation, Efficient AI, Neural network compression, Edge computing]
-journal: Numerical Computations: Theory and Algorithms (NUMTA 2023), Lecture Notes in Computer Science, vol. 14476, Springer, Cham, 2025
+journal: Numerical Computations, Theory and Algorithms (NUMTA 2023), Lecture Notes in Computer Science, vol. 14476, Springer, Cham, 2025
 doi: 10.1007/978-3-031-81241-5_22
 excerpt_separator: <!--more-->
 ---
