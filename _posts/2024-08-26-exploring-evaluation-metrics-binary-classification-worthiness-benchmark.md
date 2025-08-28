@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Evaluation Metrics for Binary Classification in Data Analysis: the Worthiness Benchmark Concept"
 authors: Mohammad Shirdel； Mario Di Mauro； Antonio Liotta
 tags: [Binary classification, Evaluation metrics, Worthiness Benchmark, γ-analysis, Confusion matrix]
-journal: Big Data Analytics and Knowledge Discovery: DaWaK 2024 (LNCS), Springer
+journal: Big Data Analytics and Knowledge Discovery， DaWaK 2024 (LNCS), Springer
 doi: 10.1007/978-3-031-68323-7_10
 excerpt_separator: <!--more-->
 ---
