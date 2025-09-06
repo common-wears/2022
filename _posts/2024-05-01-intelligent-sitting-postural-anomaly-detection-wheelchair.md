@@ -3,7 +3,7 @@ layout: post
 title: "Intelligent Sitting Postural Anomaly Detection System for Wheelchair Users with Unsupervised Techniques"
 authors: Patrick Vermander, Aitziber Mancisidor, Raffaele Gravina, Itziar Cabanes, Giancarlo Fortino
 tags: [Posture monitoring, Wheelchair users, Anomaly detection, Unsupervised learning, Digital health]
-journal: Digital Communications and Networks, 2024 (Special Issue: Deep Learning for Cognitive Healthcare)
+journal: "Digital Communications and Networks, 2024 (Special Issue: Deep Learning for Cognitive Healthcare)"
 doi: 10.1016/j.dcan.2024.05.006
 excerpt_separator: "<!--more-->"
 ---
